@@ -130,7 +130,7 @@ img,legend{border:0}legend,td,th{padding:0}html{font-family:sans-serif;-ms-text-
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 22px;
     margin: 4px 2px;
     background-color: black;
   }
@@ -222,8 +222,8 @@ img,legend{border:0}legend,td,th{padding:0}html{font-family:sans-serif;-ms-text-
       line-height: 1.75;
     }
   
-    smaller-p {
-      font-size: 0.875rem;
+    .smaller-p {
+      font-size: 1rem;
       line-height: 1.8;
     }
   
@@ -360,7 +360,7 @@ img,legend{border:0}legend,td,th{padding:0}html{font-family:sans-serif;-ms-text-
     }
   
     .smaller-p {
-      font-size: 0.875rem;
+      font-size: 1rem;
       line-height: 1.8;
     }
   
